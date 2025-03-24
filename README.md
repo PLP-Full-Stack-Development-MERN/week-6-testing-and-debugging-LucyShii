@@ -61,3 +61,4 @@
 - Well-structured and maintainable code.
 - Clear and concise error handling implementation.
 
+"test": "echo \"Error: no test specified\" && exit 1",
